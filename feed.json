@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://giov.micro.blog/2021/02/01/following-gemini-with.html",
+				
+				"content_html": "<p>Following <a href=\"https://en.wikipedia.org/wiki/Gemini_(protocol)\">Gemini</a> with interest.  Not many people on there yet though, even for small-web standards. Or maybe I&rsquo;m too used to modern web and I haven&rsquo;t cracked discoverability in Gemini yet.</p>\n",
+				"content_text": "Following [Gemini](https://en.wikipedia.org/wiki/Gemini_(protocol)) with interest.  Not many people on there yet though, even for small-web standards. Or maybe I'm too used to modern web and I haven't cracked discoverability in Gemini yet.\n",
+				"date_published": "2021-02-01T10:27:28+01:00",
+				"url": "https://micro.giov.dev/2021/02/01/following-gemini-with.html"
+			},
+			{
+				"id": "http://giov.micro.blog/2021/01/25/i-find-it.html",
+				
+				"content_html": "<p>I find it helpful to have the podcast download count on micro.blog. While I am fully on-board with micro&rsquo;s philosophy of not tracking likes/reshares/etc for posts, with podcasts is different as they&rsquo;re  a one-way street. The count removes the feeling of shouting into the void.</p>\n",
+				"content_text": "I find it helpful to have the podcast download count on micro.blog. While I am fully on-board with micro's philosophy of not tracking likes/reshares/etc for posts, with podcasts is different as they're  a one-way street. The count removes the feeling of shouting into the void.\n",
+				"date_published": "2021-01-25T11:05:02+01:00",
+				"url": "https://micro.giov.dev/2021/01/25/i-find-it.html"
+			},
+			{
 				"id": "http://giov.micro.blog/2021/01/20/so-happy-with.html",
 				
 				"content_html": "<p>So happy with the first episode of my Talk Tomorrow podcast. I&rsquo;ve been playing with the idea of starting a podcast since at least a couple of years, and it feels good to finally having found a topic and format that excite me. Ep 2 will be even better with all the learnings.</p>\n",
@@ -17,8 +33,8 @@
 			{
 				"id": "http://giov.micro.blog/2021/01/13/ep-dont-save.html",
 				"title": "Ep. 1 - Don't save the planet!",
-				"content_html": "<p>In the first episode of Talk Tomorrow, Damiano and Giovanni discuss why the idea of &ldquo;saving the planet&rdquo; is failing to mobilize people, the tragedy of the commons, how driving change looks like for individuals, policy makers and private companies, and other topics.</p>\n\n<p>Supporting material:</p>\n\n<ul>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Tragedy_of_the_commons\">Definition of the &ldquo;tragedy of the commons&rdquo;</a></p></li>\n\n<li><p><a href=\"https://simonsinek.com/the-infinite-game\">The infinite game, a book by Simon Sinek</a></p></li>\n\n<li><p><a href=\"https://www.romankrznaric.com/good-ancestor\">The good ancestor, a book by Roman Krznarik</a></p></li>\n</ul>\n\n<p><audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1247827/349822.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "In the first episode of Talk Tomorrow, Damiano and Giovanni discuss why the idea of \"saving the planet\" is failing to mobilize people, the tragedy of the commons, how driving change looks like for individuals, policy makers and private companies, and other topics.\n\nSupporting material:\n\n- [Definition of the \"tragedy of the commons\"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)\n\n- [The infinite game, a book by Simon Sinek](https://simonsinek.com/the-infinite-game)\n\n- [The good ancestor, a book by Roman Krznarik](https://www.romankrznaric.com/good-ancestor)\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1247827/349822.mp3\" preload=\"metadata\" />\n",
+				"content_html": "<p>In the first episode of Talk Tomorrow, <a href=\"https://damianotescaro.com\">Damiano</a> and Giovanni discuss why the idea of &ldquo;saving the planet&rdquo; is failing to mobilize people, the tragedy of the commons, how driving change looks like for individuals, policy makers and private companies, and other topics.</p>\n\n<p>Supporting material:</p>\n\n<ul>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Tragedy_of_the_commons\">Definition of the &ldquo;tragedy of the commons&rdquo;</a></p></li>\n\n<li><p><a href=\"https://simonsinek.com/the-infinite-game\">The infinite game, a book by Simon Sinek</a></p></li>\n\n<li><p><a href=\"https://www.romankrznaric.com/good-ancestor\">The good ancestor, a book by Roman Krznarik</a></p></li>\n</ul>\n\n<p><audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1247827/349822.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "In the first episode of Talk Tomorrow, [Damiano](https://damianotescaro.com) and Giovanni discuss why the idea of \"saving the planet\" is failing to mobilize people, the tragedy of the commons, how driving change looks like for individuals, policy makers and private companies, and other topics.\n\nSupporting material:\n\n- [Definition of the \"tragedy of the commons\"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)\n\n- [The infinite game, a book by Simon Sinek](https://simonsinek.com/the-infinite-game)\n\n- [The good ancestor, a book by Roman Krznarik](https://www.romankrznaric.com/good-ancestor)\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1247827/349822.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-01-13T11:18:00+01:00",
 				"url": "https://micro.giov.dev/2021/01/13/ep-dont-save.html",
 				"tags": ["Talk Tomorrow podcast"]
