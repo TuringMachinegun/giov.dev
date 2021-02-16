@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://giov.micro.blog/2021/02/16/i-am-continuously.html",
+				
+				"content_html": "<p>I am continuously rediscovering how useful it is to write when trying to get clarity on my own thoughts. Which is why I don&rsquo;t care too much that most of my notes never get a second look, after writing them.</p>\n",
+				"content_text": "I am continuously rediscovering how useful it is to write when trying to get clarity on my own thoughts. Which is why I don't care too much that most of my notes never get a second look, after writing them. \n",
+				"date_published": "2021-02-16T10:02:56+01:00",
+				"url": "https://micro.giov.dev/2021/02/16/i-am-continuously.html"
+			},
+			{
 				"id": "http://giov.micro.blog/2021/02/01/following-gemini-with.html",
 				
 				"content_html": "<p>Following <a href=\"https://en.wikipedia.org/wiki/Gemini_(protocol)\">Gemini</a> with interest.  Not many people on there yet though, even for small-web standards. Or maybe I&rsquo;m too used to modern web and I haven&rsquo;t cracked discoverability in Gemini yet.</p>\n",
