@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://giov.micro.blog/2021/03/16/ep-the-challenges.html",
+				"title": "Ep. 2 - The challenges of social entrepreneurship",
+				"content_html": "<p>In this episode of Talk Tomorrow, <a href=\"https://damianotescaro.com\">Damiano</a> and Giovanni discuss social entrepreneurship, its challenges, and when it makes sense for an enterprise to have two bottomlines.</p>\n\n<p>Here are our show notes for this episode:</p>\n\n<a href=\"https://micro.giov.dev/uploads/2021/50d4a3eb3b.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://micro.giov.dev/uploads/2021/50d4a3eb3b.png\"\n        \n           alt=\"Show notes mindmap\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n\n<p>If you have any comments or want to discuss the episode, head to our Telegram group <a href=\"https://t.me/talktomorrow\">t.me/talktomorrow</a>!</p>\n\n<p><audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1283873/377804.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "In this episode of Talk Tomorrow, [Damiano](https://damianotescaro.com) and Giovanni discuss social entrepreneurship, its challenges, and when it makes sense for an enterprise to have two bottomlines.\n\nHere are our show notes for this episode:\n\n{{< glightbox src=\"https://micro.giov.dev/uploads/2021/50d4a3eb3b.png\" alt=\"Show notes mindmap\" >}}\n\nIf you have any comments or want to discuss the episode, head to our Telegram group [t.me/talktomorrow](https://t.me/talktomorrow)!\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1283873/377804.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2021-03-16T10:58:00+01:00",
+				"url": "https://micro.giov.dev/2021/03/16/ep-the-challenges.html",
+				"tags": ["Talk Tomorrow podcast"]
+			},
+			{
 				"id": "http://giov.micro.blog/2021/02/16/i-am-continuously.html",
 				
 				"content_html": "<p>I am continuously rediscovering how useful it is to write when trying to get clarity on my own thoughts. Which is why I don&rsquo;t care too much that most of my notes never get a second look, after writing them.</p>\n",
@@ -45,6 +54,15 @@
 				"content_text": "In the first episode of Talk Tomorrow, [Damiano](https://damianotescaro.com) and Giovanni discuss why the idea of \"saving the planet\" is failing to mobilize people, the tragedy of the commons, how driving change looks like for individuals, policy makers and private companies, and other topics.\n\nSupporting material:\n\n- [Definition of the \"tragedy of the commons\"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)\n\n- [The infinite game, a book by Simon Sinek](https://simonsinek.com/the-infinite-game)\n\n- [The good ancestor, a book by Roman Krznarik](https://www.romankrznaric.com/good-ancestor)\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1247827/349822.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-01-13T11:18:00+01:00",
 				"url": "https://micro.giov.dev/2021/01/13/ep-dont-save.html",
+				"tags": ["Talk Tomorrow podcast"]
+			},
+			{
+				"id": "http://giov.micro.blog/2021/03/16/ep-talk-tomorrow.html",
+				"title": "Ep. 0 - Talk Tomorrow trailer",
+				"content_html": "<p>Giovanni is an AI practitioner and co-founder of green-tech startup foldAI. Damiano is a communication and marketing expert, with a knack for tech and UX. Together, they explore the challenges of building a startup for systemic change, and ideas for a sustainable tomorrow.</p>\n\n<p><audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1283929/377872.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "Giovanni is an AI practitioner and co-founder of green-tech startup foldAI. Damiano is a communication and marketing expert, with a knack for tech and UX. Together, they explore the challenges of building a startup for systemic change, and ideas for a sustainable tomorrow.\n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/8890/1283929/377872.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2021-01-01T00:01:00+01:00",
+				"url": "https://micro.giov.dev/2021/03/16/ep-talk-tomorrow.html",
 				"tags": ["Talk Tomorrow podcast"]
 			},
 			{
