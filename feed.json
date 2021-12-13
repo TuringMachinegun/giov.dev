@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://giov.micro.blog/2021/12/13/currently-reading-four.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780374159122\">Four Thousand Weeks: Time Management for Mortals</a> by Oliver Burkeman 📚</p>\n",
+				"content_text": "Currently reading: [Four Thousand Weeks: Time Management for Mortals](https://micro.blog/books/9780374159122) by Oliver Burkeman 📚\n",
+				"date_published": "2021-12-13T16:05:54+01:00",
+				"url": "https://micro.giov.dev/2021/12/13/currently-reading-four.html"
+			},
+			{
 				"id": "http://giov.micro.blog/2021/11/03/currently-reading-being.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780571337705\">Being You: The Inside Story of Your Inner Universe</a> by Professor Anil Seth 📚</p>\n",
